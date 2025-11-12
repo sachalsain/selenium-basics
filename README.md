@@ -25,5 +25,6 @@ Each test demonstrates different levels of automation skill — from browser int
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<yourusername>/selenium-automation-labs.git
-cd selenium-automation-labs
+git clone https://github.com/sachalsain/selenium-basics.git
+cd selenium-basics
+
