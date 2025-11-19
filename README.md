@@ -23,13 +23,7 @@ Each test demonstrates different levels of automation skill — from browser int
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/sachalsain/selenium-basics.git
-cd selenium-basics
-
-
-📅 Progress
+## 📅 Progress
 
 ✅ Task 1 Completed: Environment setup + first Selenium test
 
@@ -46,3 +40,10 @@ cd selenium-basics
 ✔ Implemented browser navigation (back, forward, refresh)
 ✔ Wrote advanced XPath and CSS selectors
 ✔ Added meaningful assertions
+
+---
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/sachalsain/selenium-basics.git
+cd selenium-basics
