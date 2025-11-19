@@ -28,3 +28,21 @@ Each test demonstrates different levels of automation skill — from browser int
 git clone https://github.com/sachalsain/selenium-basics.git
 cd selenium-basics
 
+
+📅 Progress
+
+✅ Task 1 Completed: Environment setup + first Selenium test
+
+### 📈 What I Learned from This Task
+✔ Setting up a professional QA automation environment.  
+✔ Managing dependencies via Maven.
+✔ Structuring a basic TestNG test suite.
+✔ Practicing GitHub project documentation for employers.
+
+✅ Task 2 Completed: Locators & Navigation
+### 📈 What I Learned from This Task
+✔ Practiced all Selenium locators
+✔ Performed click, type, clear actions
+✔ Implemented browser navigation (back, forward, refresh)
+✔ Wrote advanced XPath and CSS selectors
+✔ Added meaningful assertions
