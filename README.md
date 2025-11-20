@@ -27,7 +27,7 @@ Each test demonstrates different levels of automation skill — from browser int
 
 ✅ Task 1 Completed: Environment setup + first Selenium test
 ### 📈 What I Learned from This Task
-✔ Setting up a professional QA automation environment.  
+✔ Setting up a professional QA automation environment.
 ✔ Managing dependencies via Maven.
 ✔ Structuring a basic TestNG test suite.
 ✔ Practicing GitHub project documentation for employers.
@@ -42,10 +42,18 @@ Each test demonstrates different levels of automation skill — from browser int
 
 ✅ Task 3 Completed: Waits & Synchronization
 ### 📈 What I Learned from This Task
-✔ Implemented Implicit, Explicit, and Fluent Waits  
-✔ Practiced visibility, clickability, and attribute wait conditions  
-✔ Implemented polling and exception handling  
-✔ Strengthened timing control for dynamic elements 
+✔ Implemented Implicit, Explicit, and Fluent Waits
+✔ Practiced visibility, clickability, and attribute wait conditions
+✔ Implemented polling and exception handling
+✔ Strengthened timing control for dynamic elements
+
+✅ Task 4 Completed: Alerts, Frames & Window Handling
+### 📈 What I Learned from This Task
+✔ Mastered JavaScript alerts (OK, Cancel, Prompt)
+✔ Switched into iFrames and nested frames
+✔ Worked with multiple browser windows/tabs
+✔ Practiced switching back to parent frames and windows
+✔ All tests fully commented for learning purposes
 
 ---
 
