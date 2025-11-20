@@ -26,7 +26,6 @@ Each test demonstrates different levels of automation skill — from browser int
 ## 📅 Progress
 
 ✅ Task 1 Completed: Environment setup + first Selenium test
-
 ### 📈 What I Learned from This Task
 ✔ Setting up a professional QA automation environment.  
 ✔ Managing dependencies via Maven.
@@ -40,6 +39,13 @@ Each test demonstrates different levels of automation skill — from browser int
 ✔ Implemented browser navigation (back, forward, refresh)
 ✔ Wrote advanced XPath and CSS selectors
 ✔ Added meaningful assertions
+
+✅ Task 3 Completed: Waits & Synchronization
+### 📈 What I Learned from This Task
+✔ Implemented Implicit, Explicit, and Fluent Waits  
+✔ Practiced visibility, clickability, and attribute wait conditions  
+✔ Implemented polling and exception handling  
+✔ Strengthened timing control for dynamic elements 
 
 ---
 
